@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @chidiesobe
 - 👀  I’m interested in Software Development, Learning and Dogs
-- 🌱  I’m recently developed a strong love for Python, Django and Data Science
+- 🌱  Strong love for Python, Django and Data Science
 - 💞️  I’m looking to collaborate on projects that will improve my knowledge and add value to others
 - 📫  How to reach me via twitter @chidiesobe or instagram @chidiesobe
 - ✨  Current stack: Laravel, PHP, Python, Django, Vue Js, JavaScript, CSS 3
