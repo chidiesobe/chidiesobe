@@ -3,7 +3,7 @@
 - 🌱  Strong love for Python and Data Analytics
 - 💞️  I’m looking to collaborate on projects that will improve my knowledge and add value to others
 - 📫  How to reach me via twitter @chidiesobe or instagram @chidiesobe_
-- ✨  Current stack: Laravel, PHP, Python, JavaScript, CSS 3
+- ✨  Current stack: Laravel, PHP, Python, JavaScript
 
 <!---
 chidiesobe/chidiesobe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
