@@ -1,8 +1,8 @@
 - 👋  Hi, I’m @chidiesobe
-- 👀  I’m interested in Software Development, Learning and Dogs
+- 👀  I’m interested in Software Development, Data Analysis, Writing, Learning and Dogs
 - 🌱  Strong love for Technology
 - 💞️  I’m looking to collaborate on projects that will improve my knowledge and add value to others
-- 📫  How to reach me via twitter @chidiesobe or instagram @chidiesobe_
+- 📫  How to reach me via Twitter @chidiesobe or Instagram @ceesobe or hit by up on LinkedIn @chidi-esobe
 - ✨  Current stack: Laravel, PHP, Python, JavaScript
 
 <!---
