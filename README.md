@@ -12,7 +12,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/chidiesobe/chidiesobe/refs/heads/main/assets/tools%20new%20(1).gif" alt="tools" width="50%" />  
+  <img src="https://raw.githubusercontent.com/chidiesobe/chidiesobe/refs/heads/main/assets/tools_new.gif" alt="tools" width="50%" />  
 </div>
 <br>
 
