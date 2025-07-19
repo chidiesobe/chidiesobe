@@ -1,5 +1,3 @@
-![GitHub Banner](https://raw.githubusercontent.com/chidiesobe/chidiesobe/refs/heads/main/assets/chidiesobe.png)
-
 <h1 align="center"><img src="https://raw.githubusercontent.com/chidiesobe/chidiesobe/refs/heads/main/assets/master_panda.gif" alt="welcome!" width="10%" /> Welcome to my DOJO!</h1>
 
 <h3 align="center">Data enthusiast with a passion for solving problems.</h3>
